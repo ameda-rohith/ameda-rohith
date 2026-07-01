@@ -88,6 +88,9 @@ Deep Learning framework for PM2.5 prediction using **LSTM**, **GRU**, and **CNN-
 
 ⭐ Time Series Forecasting
 
+🔗 **Repository:**  
+https://github.com/ameda-rohith/Air-Pollution-Forecasting
+
 </td>
 
 </tr>
@@ -160,13 +163,25 @@ Modern digital payment platform with secure transactions and an intuitive user e
 
 <td width="50%">
 
-### 📈 Currently Building
+<td width="50%">
 
-🚀 Agentic AI
+### 💳 Credit Card Fraud Detection
 
-🧠 Advanced LLM Applications
+Machine Learning-based fraud detection system that identifies suspicious financial transactions using classification algorithms to improve security and reduce financial risk.
 
-⚡ Backend Engineering
+**Highlights**
+
+⭐ High Accuracy Classification
+
+⭐ Real-time Fraud Detection
+
+⭐ Model Evaluation & Performance Analysis
+
+**Tech Stack**
+
+`Python` `Scikit-learn` `Pandas` `NumPy`
+
+🔗 https://github.com/ameda-rohith/Credit-Card-Fraud-Detection
 
 </td>
 

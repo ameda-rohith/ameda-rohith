@@ -10,109 +10,176 @@
 
 ## 👨‍💻 About Me
 
-🎓 Final Year **B.Tech in Computer Science (AI & ML)** at **SR University**
+🎓 Final Year B.Tech in Computer Science (AI & ML) at SR University
 
-📈 **CGPA:** **9.446 / 10**
+📈 CGPA: **9.446 / 10**
 
 🏅 Ranked among the **Top 5%** students in the AIML program
 
-🤖 Passionate about developing intelligent, scalable AI-powered and full-stack applications.
+🤖 Passionate about building intelligent AI-powered and scalable web applications.
 
-💡 Interested in
+💡 My interests include **Machine Learning, Generative AI, LLMs, Explainable AI, Full-Stack Development, and Cloud Technologies.**
 
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Large Language Models (LLMs)
-- Full-Stack Development
-- Cloud Technologies
-
-🌱 Currently improving
-
-- Agentic AI
-- Advanced DSA
-- System Design
-- Backend Development
+🌱 Currently exploring **Agentic AI, System Design, Advanced DSA, and Backend Engineering.**
 
 ---
+## 💻 Tech Stack
 
-# 🚀 Tech Stack
+<table>
+<tr>
+<td align="center" width="50%">
 
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" /><br><br>
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### Frameworks & Libraries
+</td>
+
+<td align="center" width="50%">
+
+### AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask" />
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://skillicons.dev/icons?i=sklearn" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br><br>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SHAP-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LIME-00C853?style=for-the-badge"/>
+
 </p>
 
-### Databases
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+<img src="https://skillicons.dev/icons?i=flask,mysql,postgres,mongodb" />
+
 </p>
 
-### Tools
+</td>
+
+<td align="center">
+
+### Tools & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,azure" />
 
 </p>
 
----
+</td>
+</tr>
+</table>
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
 
 ---
 
-## 🏆 GitHub Trophy
 
-<p align="center">
+# 🚀 Featured Projects
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
+<table>
+<tr>
 
-</p>
+<td width="50%">
 
----
+### 🤖 AI Code Debugger
 
-# 💼 Featured Projects
+AI-powered debugging assistant that analyzes source code using **LLMs** to detect syntax, logical, and runtime errors while providing optimization suggestions and code quality insights.
 
-## 🤖 AI Code Debugger
+**Tech Stack**
 
-AI-powered debugging assistant built using Flask and LLM APIs that analyzes code, detects syntax, logical, and runtime issues, and provides optimization suggestions.
+`Python` `Flask` `LLMs` `OpenRouter API`
 
----
+🔗 **Repository:** https://github.com/ameda-rohith/AI-Code-Debugger
 
-## 🌍 Air Pollution Forecasting
+🌐 **Live Demo:** https://ai-code-debugger-vb2f.onrender.com
 
-Deep Learning-based PM2.5 prediction system using LSTM, GRU and CNN-LSTM integrated with SHAP and LIME for Explainable AI.
+</td>
 
----
+<td width="50%">
 
-## 🌊 Flood Guard
+### 🌍 Air Pollution Forecasting
 
-Disaster management platform supporting emergency response, evacuation tracking and predictive flood monitoring.
+Deep Learning framework for **PM2.5 prediction** using **LSTM, GRU, and CNN-LSTM**, integrated with **SHAP** and **LIME** for Explainable AI and improved model transparency.
+
+**Tech Stack**
+
+`Python` `TensorFlow` `SHAP` `LIME`
+
+🔗 **Repository:** https://github.com/YOUR_USERNAME/Air-Pollution-Forecasting
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌊 Flood Guard
+
+Smart disaster management platform that supports **real-time flood monitoring**, emergency response, evacuation tracking, and predictive risk analysis for effective disaster preparedness.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+🔗 **Repository:** https://github.com/ameda-rohith/Flood-Guard
+
+🌐 **Live Demo:** https://2303a52110.github.io/Flood-Guard/
+
+</td>
+
+<td width="50%">
+
+### 🚑 Disaster Relief Resource Management
+
+A web-based resource management platform that streamlines disaster relief operations by coordinating volunteers, shelters, supplies, and affected communities in real time.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+🔗 **Repository:** https://github.com/ameda-rohith/Disaster-Relief-Resource-Management-System
+
+🌐 **Live Demo:** https://disaster-relief-resource-management.onrender.com
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💸 EasyPay
+
+Digital payment platform designed for secure and seamless online transactions with a responsive user interface and intuitive payment workflow.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+🔗 **Repository:** https://github.com/ameda-rohith/EasyPay
+
+🌐 **Live Demo:** https://2303A52110.github.io/EasyPay
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -156,40 +223,27 @@ Disaster management platform supporting emergency response, evacuation tracking 
 🎤 Active Member — Literacy Master Communications Club
 
 ---
-
-# 📈 Contribution Graph
+## 🤝 Connect With Me
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
 <a href="https://www.linkedin.com/in/amedarohith/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://leetcode.com/u/ameda_rohith/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=leetcode"/>
+<a href="https://www.credly.com/users/ameda-rohith.10b44192">
+<img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
+
+<a href="mailto:amedarohith2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
----
-
-# 💬 Quote
-
-> *"Code with purpose. Learn continuously. Build solutions that make an impact."*
 
 ---
 

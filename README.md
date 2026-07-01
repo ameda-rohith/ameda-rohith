@@ -25,162 +25,54 @@
 ---
 ## 💻 Tech Stack
 
-<table>
-<tr>
-<td align="center" width="50%">
+### Languages
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript" /><br><br>
-<img src="https://skillicons.dev/icons?i=html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" />
 </p>
-
-</td>
-
-<td align="center" width="50%">
 
 ### AI & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br><br>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SHAP-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LIME-00C853?style=for-the-badge"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### Backend & Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=flask,mysql,postgres,mongodb" />
-
+<p align="center">
+<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LIME-success?style=for-the-badge"/>
 </p>
 
-</td>
+### Backend • Database • Cloud
 
-<td align="center">
-
-### Tools & Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,azure" />
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,mysql,postgres,mongodb,git,github,vscode,linux,aws,azure" />
 </p>
-
-</td>
-</tr>
-</table>
-
 
 ---
-
-
 # 🚀 Featured Projects
 
-<table>
-<tr>
+<p align="center">
 
-<td width="50%">
+<a href="https://github.com/ameda-rohith/AI-Code-Debugger">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ameda-rohith&repo=AI-Code-Debugger&theme=github_dark&hide_border=true" />
+</a>
 
-### 🤖 AI Code Debugger
+<a href="https://github.com/ameda-rohith/Flood-Guard">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ameda-rohith&repo=Flood-Guard&theme=github_dark&hide_border=true" />
+</a>
 
-AI-powered debugging assistant that analyzes source code using **LLMs** to detect syntax, logical, and runtime errors while providing optimization suggestions and code quality insights.
+<a href="https://github.com/ameda-rohith/Disaster-Relief-Resource-Management-System">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ameda-rohith&repo=Disaster-Relief-Resource-Management-System&theme=github_dark&hide_border=true" />
+</a>
 
-**Tech Stack**
+<a href="https://github.com/ameda-rohith/EasyPay">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ameda-rohith&repo=EasyPay&theme=github_dark&hide_border=true" />
+</a>
 
-`Python` `Flask` `LLMs` `OpenRouter API`
+</p>
 
-🔗 **Repository:** https://github.com/ameda-rohith/AI-Code-Debugger
-
-🌐 **Live Demo:** https://ai-code-debugger-vb2f.onrender.com
-
-</td>
-
-<td width="50%">
-
-### 🌍 Air Pollution Forecasting
-
-Deep Learning framework for **PM2.5 prediction** using **LSTM, GRU, and CNN-LSTM**, integrated with **SHAP** and **LIME** for Explainable AI and improved model transparency.
-
-**Tech Stack**
-
-`Python` `TensorFlow` `SHAP` `LIME`
-
-🔗 **Repository:** https://github.com/YOUR_USERNAME/Air-Pollution-Forecasting
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🌊 Flood Guard
-
-Smart disaster management platform that supports **real-time flood monitoring**, emergency response, evacuation tracking, and predictive risk analysis for effective disaster preparedness.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-🔗 **Repository:** https://github.com/ameda-rohith/Flood-Guard
-
-🌐 **Live Demo:** https://2303a52110.github.io/Flood-Guard/
-
-</td>
-
-<td width="50%">
-
-### 🚑 Disaster Relief Resource Management
-
-A web-based resource management platform that streamlines disaster relief operations by coordinating volunteers, shelters, supplies, and affected communities in real time.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-🔗 **Repository:** https://github.com/ameda-rohith/Disaster-Relief-Resource-Management-System
-
-🌐 **Live Demo:** https://disaster-relief-resource-management.onrender.com
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 💸 EasyPay
-
-Digital payment platform designed for secure and seamless online transactions with a responsive user interface and intuitive payment workflow.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-🔗 **Repository:** https://github.com/ameda-rohith/EasyPay
-
-🌐 **Live Demo:** https://2303A52110.github.io/EasyPay
-
-</td>
-
-</tr>
-</table>
-
+<div align="center">
 ---
 
 ## 🛠 Technical Skills

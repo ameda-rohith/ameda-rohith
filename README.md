@@ -23,106 +23,33 @@
 🌱 Currently exploring **Agentic AI, System Design, Advanced DSA, and Backend Engineering.**
 
 ---
-# 💻 Tech Arsenal
+# ⚡ Tech Arsenal
 
-<div align="center">
+```text
+🤖 AI & Machine Learning
+Machine Learning • Deep Learning • Generative AI • LLMs • Explainable AI
 
-<table>
+💻 Languages
+Python • Java • C • JavaScript • SQL
 
-<tr>
+🌐 Web Development
+HTML5 • CSS3 • Flask
 
-<td align="center" width="33%">
+📊 Libraries
+TensorFlow • Scikit-learn • NumPy • Pandas
 
-### 🤖 AI & Machine Learning
+🗄 Databases
+MySQL • PostgreSQL • MongoDB
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br><br>
+☁ Cloud
+Microsoft Azure • AWS
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/><br><br>
+🛠 Tools
+Git • GitHub • VS Code • Linux • Jupyter Notebook
 
-<img src="https://img.shields.io/badge/SHAP-1E88E5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LIME-43A047?style=for-the-badge"/>
-
-</p>
-
-</td>
-
-<td align="center" width="33%">
-
-### 💻 Programming
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript" /><br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css" />
-
-</p>
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌐 Backend & Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=flask,mysql,postgres,mongodb" />
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### ☁ Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,azure" />
-
-</p>
-
-</td>
-
-<td align="center">
-
-### 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-
-</p>
-
-</td>
-
-<td align="center">
-
-### 📚 Currently Learning
-
-<p>
-
-<img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge"/>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+📚 Core CS
+DSA • OOP • OS • DBMS • Computer Networks
+```
 
 ---
 # 🚀 Featured Projects

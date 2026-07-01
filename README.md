@@ -23,32 +23,111 @@
 🌱 Currently exploring **Agentic AI, System Design, Advanced DSA, and Backend Engineering.**
 
 ---
-## 💻 Tech Stack
+# ⚡ Tech Arsenal
 
-### Languages
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" />
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🤖 AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow" /><br><br>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SHAP-1E88E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LIME-43A047?style=for-the-badge"/>
+
 </p>
 
-### AI & Machine Learning
+</td>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<td align="center" width="33%">
+
+### 💻 Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" /><br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHAP-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LIME-success?style=for-the-badge"/>
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Backend & Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flask,mysql,postgres,mongodb" />
+
 </p>
 
-### Backend • Database • Cloud
+</td>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flask,mysql,postgres,mongodb,git,github,vscode,linux,aws,azure" />
+</tr>
+
+<tr>
+
+<td align="center">
+
+### ☁️ Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+
 </p>
 
+</td>
+
+<td align="center">
+
+### 🛠️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+</p>
+
+</td>
+
+<td align="center">
+
+### 🎯 Core Expertise
+
+<p>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Explainable%20AI-1565C0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full--Stack-2E7D32?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 ---
 # 🚀 Featured Projects
 
@@ -178,20 +257,6 @@ https://2303A52110.github.io/EasyPay
 
 ---
 
-## 🛠 Technical Skills
-
-- Python
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Explainable AI
-- SQL
-- Flask
-- Git
-- GitHub
-- Full Stack Development
-
----
 
 # 🏅 Certifications
 
@@ -244,8 +309,9 @@ https://2303A52110.github.io/EasyPay
 
 <div align="center">
 
-### Thanks for visiting my profile!
+## ⭐ Thanks for visiting!
 
-<img src="https://komarev.com/ghpvc/?username=ameda-rohith&label=Profile%20Views&color=0e75b6&style=flat"/>
+*"Building intelligent software with AI, one commit at a time."*
+
 
 </div>

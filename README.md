@@ -23,7 +23,7 @@
 🌱 Currently exploring **Agentic AI, System Design, Advanced DSA, and Backend Engineering.**
 
 ---
-# ⚡ Tech Arsenal
+# 💻 Tech Arsenal
 
 <div align="center">
 
@@ -36,10 +36,9 @@
 ### 🤖 AI & Machine Learning
 
 <p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br><br>
 
-<img src="https://skillicons.dev/icons?i=tensorflow" /><br><br>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/><br><br>
 
 <img src="https://img.shields.io/badge/SHAP-1E88E5?style=for-the-badge"/>
 
@@ -65,7 +64,7 @@
 
 <td align="center" width="33%">
 
-### 🌐 Backend & Database
+### 🌐 Backend & Databases
 
 <p>
 
@@ -81,7 +80,7 @@
 
 <td align="center">
 
-### ☁️ Cloud
+### ☁ Cloud
 
 <p>
 
@@ -93,7 +92,7 @@
 
 <td align="center">
 
-### 🛠️ Tools
+### 🛠 Tools
 
 <p>
 
@@ -105,19 +104,15 @@
 
 <td align="center">
 
-### 🎯 Core Expertise
+### 📚 Currently Learning
 
 <p>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Explainable%20AI-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/LLMs-00C853?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Full--Stack-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge"/>
 
 </p>
 
@@ -128,6 +123,7 @@
 </table>
 
 </div>
+
 ---
 # 🚀 Featured Projects
 

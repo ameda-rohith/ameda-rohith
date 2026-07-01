@@ -52,27 +52,127 @@
 ---
 # 🚀 Featured Projects
 
-<p align="center">
+<table>
 
-<a href="https://github.com/ameda-rohith/AI-Code-Debugger">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ameda-rohith&repo=AI-Code-Debugger&theme=github_dark&hide_border=true" />
-</a>
+<tr>
 
-<a href="https://github.com/ameda-rohith/Flood-Guard">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ameda-rohith&repo=Flood-Guard&theme=github_dark&hide_border=true" />
-</a>
+<td width="50%">
 
-<a href="https://github.com/ameda-rohith/Disaster-Relief-Resource-Management-System">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ameda-rohith&repo=Disaster-Relief-Resource-Management-System&theme=github_dark&hide_border=true" />
-</a>
+### 🤖 AI Code Debugger
 
-<a href="https://github.com/ameda-rohith/EasyPay">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ameda-rohith&repo=EasyPay&theme=github_dark&hide_border=true" />
-</a>
+AI-powered debugging assistant that leverages **LLMs** to detect syntax, logical, and runtime errors while providing optimization suggestions and code quality analysis.
 
-</p>
+**Tech Stack**
 
-<div align="center">
+`Python` `Flask` `LLMs` `OpenRouter API`
+
+🔗 **Repository:**  
+https://github.com/ameda-rohith/AI-Code-Debugger
+
+🌐 **Live Demo:**  
+https://ai-code-debugger-vb2f.onrender.com
+
+</td>
+
+<td width="50%">
+
+### 🌍 Air Pollution Forecasting
+
+Deep Learning framework for PM2.5 prediction using **LSTM**, **GRU**, and **CNN-LSTM** models integrated with **SHAP** and **LIME** for Explainable AI.
+
+**Highlights**
+
+⭐ R² up to **0.92**
+
+⭐ Explainable AI
+
+⭐ Time Series Forecasting
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌊 Flood Guard
+
+Smart disaster management platform supporting flood prediction, emergency response, evacuation tracking, and resource coordination.
+
+**Tech Stack**
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+🔗 https://github.com/ameda-rohith/Flood-Guard
+
+🌐 https://2303a52110.github.io/Flood-Guard/
+
+</td>
+
+<td width="50%">
+
+### 🚑 Disaster Relief Resource Management
+
+Resource management platform designed to coordinate shelters, volunteers, and relief supplies during emergencies.
+
+**Tech Stack**
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+🔗 https://github.com/ameda-rohith/Disaster-Relief-Resource-Management-System
+
+🌐 https://disaster-relief-resource-management.onrender.com
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💸 EasyPay
+
+Modern digital payment platform with secure transactions and an intuitive user experience.
+
+**Tech Stack**
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+🔗 https://github.com/ameda-rohith/EasyPay
+
+🌐 https://2303A52110.github.io/EasyPay
+
+</td>
+
+<td width="50%">
+
+### 📈 Currently Building
+
+🚀 Agentic AI
+
+🧠 Advanced LLM Applications
+
+⚡ Backend Engineering
+
+</td>
+
+</tr>
+
+</table>
 ---
 
 ## 🛠 Technical Skills
@@ -143,6 +243,6 @@
 
 ### Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=ameda-rohith&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>

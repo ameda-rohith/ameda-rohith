@@ -56,39 +56,43 @@
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Code Debugger
 
-AI-powered debugging assistant that leverages **LLMs** to detect syntax, logical, and runtime errors while providing optimization suggestions and code quality analysis.
+AI-powered debugging assistant that leverages **LLMs** to detect syntax, logical, and runtime errors while providing optimization suggestions and code quality insights.
 
 **Tech Stack**
 
 `Python` `Flask` `LLMs` `OpenRouter API`
 
-🔗 **Repository:**  
+🔗 **Repository**  
 https://github.com/ameda-rohith/AI-Code-Debugger
 
-🌐 **Live Demo:**  
+🌐 **Live Demo**  
 https://ai-code-debugger-vb2f.onrender.com
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌍 Air Pollution Forecasting
 
-Deep Learning framework for PM2.5 prediction using **LSTM**, **GRU**, and **CNN-LSTM** models integrated with **SHAP** and **LIME** for Explainable AI.
+Deep Learning-based PM2.5 forecasting system using **LSTM**, **GRU**, and **CNN-LSTM** models integrated with **SHAP** and **LIME** for Explainable AI.
 
 **Highlights**
 
-⭐ R² up to **0.92**
+⭐ Achieved **R² up to 0.92**
 
-⭐ Explainable AI
+⭐ Explainable AI with SHAP & LIME
 
-⭐ Time Series Forecasting
+⭐ Environmental Time-Series Forecasting
 
-🔗 **Repository:**  
+**Tech Stack**
+
+`Python` `TensorFlow` `Keras` `SHAP` `LIME`
+
+🔗 **Repository**  
 https://github.com/ameda-rohith/Air-Pollution-Forecasting
 
 </td>
@@ -97,43 +101,39 @@ https://github.com/ameda-rohith/Air-Pollution-Forecasting
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌊 Flood Guard
 
-Smart disaster management platform supporting flood prediction, emergency response, evacuation tracking, and resource coordination.
+Smart disaster management platform for **real-time flood monitoring**, emergency response, evacuation tracking, and resource coordination.
 
 **Tech Stack**
 
-`HTML`
+`HTML` `CSS` `JavaScript`
 
-`CSS`
+🔗 **Repository**  
+https://github.com/ameda-rohith/Flood-Guard
 
-`JavaScript`
-
-🔗 https://github.com/ameda-rohith/Flood-Guard
-
-🌐 https://2303a52110.github.io/Flood-Guard/
+🌐 **Live Demo**  
+https://2303a52110.github.io/Flood-Guard/
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚑 Disaster Relief Resource Management
 
-Resource management platform designed to coordinate shelters, volunteers, and relief supplies during emergencies.
+Web-based disaster relief platform that manages volunteers, shelters, resources, and emergency coordination during disasters.
 
 **Tech Stack**
 
-`HTML`
+`HTML` `CSS` `JavaScript`
 
-`CSS`
+🔗 **Repository**  
+https://github.com/ameda-rohith/Disaster-Relief-Resource-Management-System
 
-`JavaScript`
-
-🔗 https://github.com/ameda-rohith/Disaster-Relief-Resource-Management-System
-
-🌐 https://disaster-relief-resource-management.onrender.com
+🌐 **Live Demo**  
+https://disaster-relief-resource-management.onrender.com
 
 </td>
 
@@ -141,47 +141,44 @@ Resource management platform designed to coordinate shelters, volunteers, and re
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💸 EasyPay
 
-Modern digital payment platform with secure transactions and an intuitive user experience.
+Responsive digital payment platform that enables secure online transactions with a simple and user-friendly interface.
 
 **Tech Stack**
 
-`HTML`
+`HTML` `CSS` `JavaScript`
 
-`CSS`
+🔗 **Repository**  
+https://github.com/ameda-rohith/EasyPay
 
-`JavaScript`
-
-🔗 https://github.com/ameda-rohith/EasyPay
-
-🌐 https://2303A52110.github.io/EasyPay
+🌐 **Live Demo**  
+https://2303A52110.github.io/EasyPay
 
 </td>
 
-<td width="50%">
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💳 Credit Card Fraud Detection
 
-Machine Learning-based fraud detection system that identifies suspicious financial transactions using classification algorithms to improve security and reduce financial risk.
+Machine Learning-based fraud detection system that classifies suspicious financial transactions using predictive models to improve transaction security.
 
 **Highlights**
 
-⭐ High Accuracy Classification
+⭐ High-Accuracy Classification
 
-⭐ Real-time Fraud Detection
+⭐ Fraud Detection using Supervised Learning
 
-⭐ Model Evaluation & Performance Analysis
+⭐ Comprehensive Model Evaluation
 
 **Tech Stack**
 
 `Python` `Scikit-learn` `Pandas` `NumPy`
 
-🔗 https://github.com/ameda-rohith/Credit-Card-Fraud-Detection
+🔗 **Repository**  
+https://github.com/ameda-rohith/Credit-Card-Fraud-Detection
 
 </td>
 

@@ -60,7 +60,7 @@
 
 ### 🤖 AI Code Debugger
 
-AI-powered debugging assistant that leverages **LLMs** to detect syntax, logical, and runtime errors while providing optimization suggestions and code quality insights.
+AI-powered debugging assistant that leverages **LLMs** to detect syntax, logical, and runtime errors while providing intelligent optimization suggestions.
 
 **Tech Stack**
 
@@ -78,15 +78,7 @@ https://ai-code-debugger-vb2f.onrender.com
 
 ### 🌍 Air Pollution Forecasting
 
-Deep Learning-based PM2.5 forecasting system using **LSTM**, **GRU**, and **CNN-LSTM** models integrated with **SHAP** and **LIME** for Explainable AI.
-
-**Highlights**
-
-⭐ Achieved **R² up to 0.92**
-
-⭐ Explainable AI with SHAP & LIME
-
-⭐ Environmental Time-Series Forecasting
+Deep Learning-based PM2.5 forecasting system using **LSTM**, **GRU**, and Explainable AI techniques for accurate environmental prediction.
 
 **Tech Stack**
 
@@ -94,6 +86,9 @@ Deep Learning-based PM2.5 forecasting system using **LSTM**, **GRU**, and **CNN-
 
 🔗 **Repository**  
 https://github.com/ameda-rohith/Air-Pollution-Forecasting
+
+🌐 **Status**  
+Research Project
 
 </td>
 
@@ -105,7 +100,7 @@ https://github.com/ameda-rohith/Air-Pollution-Forecasting
 
 ### 🌊 Flood Guard
 
-Smart disaster management platform for **real-time flood monitoring**, emergency response, evacuation tracking, and resource coordination.
+Smart disaster management platform for flood monitoring, emergency response, evacuation tracking, and real-time resource coordination.
 
 **Tech Stack**
 
@@ -123,7 +118,7 @@ https://2303a52110.github.io/Flood-Guard/
 
 ### 🚑 Disaster Relief Resource Management
 
-Web-based disaster relief platform that manages volunteers, shelters, resources, and emergency coordination during disasters.
+Web-based disaster relief platform for managing shelters, volunteers, emergency resources, and response coordination efficiently.
 
 **Tech Stack**
 
@@ -143,9 +138,27 @@ https://disaster-relief-resource-management.onrender.com
 
 <td width="50%" valign="top">
 
+### 💳 Credit Card Fraud Detection
+
+Machine Learning solution that identifies fraudulent transactions using predictive models to improve financial security and detection accuracy.
+
+**Tech Stack**
+
+`Python` `Scikit-learn` `Pandas` `NumPy`
+
+🔗 **Repository**  
+https://github.com/ameda-rohith/Credit-Card-Fraud-Detection
+
+🌐 **Status**  
+ML Project
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 💸 EasyPay
 
-Responsive digital payment platform that enables secure online transactions with a simple and user-friendly interface.
+Responsive digital payment platform providing secure online transactions with a clean, user-friendly, and modern interface.
 
 **Tech Stack**
 
@@ -159,32 +172,10 @@ https://2303A52110.github.io/EasyPay
 
 </td>
 
-<td width="50%" valign="top">
-
-### 💳 Credit Card Fraud Detection
-
-Machine Learning-based fraud detection system that classifies suspicious financial transactions using predictive models to improve transaction security.
-
-**Highlights**
-
-⭐ High-Accuracy Classification
-
-⭐ Fraud Detection using Supervised Learning
-
-⭐ Comprehensive Model Evaluation
-
-**Tech Stack**
-
-`Python` `Scikit-learn` `Pandas` `NumPy`
-
-🔗 **Repository**  
-https://github.com/ameda-rohith/Credit-Card-Fraud-Detection
-
-</td>
-
 </tr>
 
 </table>
+
 ---
 
 ## 🛠 Technical Skills

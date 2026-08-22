@@ -112,7 +112,7 @@ Smart disaster management platform for flood monitoring, emergency response, eva
 https://github.com/ameda-rohith/Flood-Guard
 
 🌐 **Live Demo**  
-https://2303a52110.github.io/Flood-Guard/
+https://ameda-rohith.github.io/Flood-Guard/
 
 </td>
 
@@ -170,7 +170,7 @@ Responsive digital payment platform providing secure online transactions with a 
 https://github.com/ameda-rohith/EasyPay
 
 🌐 **Live Demo**  
-https://2303A52110.github.io/EasyPay
+https://ameda-rohith.github.io/EasyPay/
 
 </td>
 
